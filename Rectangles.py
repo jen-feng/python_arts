@@ -1,5 +1,5 @@
-## @file Squares.py
-#  @title Squares
+## @file Rectangles.py
+#  @title Rectangles
 #  @author Jenny Feng Chen
 #  @date 02/22/2016
 
