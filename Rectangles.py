@@ -1,3 +1,8 @@
+## @file Squares.py
+#  @title Squares
+#  @author Jenny Feng Chen
+#  @date 02/22/2016
+
 from turtle import*
 from math import*
 def nestedSquares():
